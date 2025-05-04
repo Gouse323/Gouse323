@@ -9,6 +9,5 @@
 🤝 Looking to team up on impactful web projects, cloud-based systems, or open-source contributions  
 
 
-📫 Let’s connect: gouse030203@gmail.com 
-😄 Pronouns: He/Him  
+📫 Let’s connect: gouse030203@gmail.com  
 🍜 Fun fact: I’ll refactor your code before I ever figure out what to have for lunch

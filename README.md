@@ -4,7 +4,7 @@
 ☁️ Excited about deploying modern software solutions on AWS Cloud  
 💡 Always curious—whether it’s debugging code or learning a new tech stack  
 🤝 Looking to team up on impactful web projects, cloud-based systems, or open-source contributions  
-📫 Let’s connect: [gouse@gmail.com](url)  
+📫 Let’s connect: gouse030203@gmail.com 
 😄 Pronouns: He/Him  
 🍜 Fun fact: I’ll refactor your code before I ever figure out what to have for lunch
 
